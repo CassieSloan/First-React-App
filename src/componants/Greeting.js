@@ -14,3 +14,5 @@ const Greeting = () => {
     )
     //in order to format with multiple lines, jsx must be wrapped in ()
 }
+
+export default Greeting;
